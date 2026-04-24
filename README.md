@@ -43,12 +43,3 @@ Each LED represents a letter in "WELCOME". The Arduino cycles through multiple l
 3. Power the circuit
 4. Watch the animation run automatically
 
-## 📁 Files Included
-- Arduino code (.ino)
-
-## 🎥 YouTube Demo
-Check out the full project demo on YouTube:
-[Add your video link here]
-
-## 🔗 Download / Clone
-You can download or clone this repository using:
